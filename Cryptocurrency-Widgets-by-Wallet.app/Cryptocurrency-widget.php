@@ -1,0 +1,2 @@
+<?php 
+//Plugin code
