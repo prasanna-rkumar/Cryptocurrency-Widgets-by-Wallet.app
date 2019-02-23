@@ -1,0 +1,14 @@
+.coins-list-controlls{
+    float: right;
+}
+
+.coins-list-controlls{
+    cursor: pointer;
+}
+
+.coins-list-individual-item{
+    height: 30px; 
+    width: 100%;
+    font-size: 15px;
+    font-weight: 600;
+}
