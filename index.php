@@ -4,7 +4,7 @@ Plugin Name:  Cryptocurrency Widgets by Wallet.app
 Plugin URI: 
 Description:  Cryptocurrency Widgets WordPress plugin displays current prices of over crypto coins - bitcoin, ethereum, ripple and +4000 more. Totally free, no ads.
 Author: Wallet.app
-Author URI: https://wallet.app
+Author URI: http://wallet.app
 Version: 0.1
 */
 
