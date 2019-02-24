@@ -35,7 +35,7 @@ class Wallet_App_Currency_Widget extends WP_Widget {
 			)
 		);
 	}
-	// The widget form (for the backend )
+	// The widget form (for the backend ) 
 	public function form( $instance ) {
 		// Set widget defaults
 		$defaults = array(
